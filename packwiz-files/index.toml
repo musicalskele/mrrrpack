@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/mpalladium.pw.toml"
-hash = "737a03339bdf415998c4f04da992e0ec8d4cc217a4c7b443cd1ef78da3b9a370"
+hash = "afcbf737a26b2d5d794732d64f4f8e13478593c43e1715ee92afb59533dbe496"
 metafile = true
 
 [[files]]
