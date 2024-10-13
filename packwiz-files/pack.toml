@@ -1,6 +1,6 @@
 name = "mrrrpack"
 author = "musicalskele"
-version = "0.0.3"
+version = "0.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -11,6 +11,3 @@ hash = "8574b51402f2b63efa42e4980359c17e5616f62bc995df902bc8b89cfd09afd4"
 [versions]
 fabric = "0.16.7"
 minecraft = "1.21"
-
-[options]
-acceptable-game-versions = ["1.21"]
