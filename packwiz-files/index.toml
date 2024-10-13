@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/concentration.pw.toml"
-hash = "2d4610d2a1b9aed72e96759d16d641307e7bd45f629e80e6c47f3a4f47eef64f"
+hash = "c9fbc89629cc9eac6ad19d0c198d770284ef34f1e594c37bac7dd25c4cc4c2ee"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/mpalladium.pw.toml"
-hash = "54a5afb90b8a46b9436818557043f60442927dc12a0c83f531db8f3562c89a0b"
+hash = "737a03339bdf415998c4f04da992e0ec8d4cc217a4c7b443cd1ef78da3b9a370"
 metafile = true
 
 [[files]]
