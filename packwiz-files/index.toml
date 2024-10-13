@@ -91,6 +91,11 @@ hash = "7167d442d5704438f8491ba69efa1c92d5719370bf63eea2c94ef4e12fbf6265"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "d8f7d21ebc1cdfe51be834598d3b99d7c6cb2fbc22caa13fda08c9a1b8faffc8"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/minimotd.pw.toml"
 hash = "092e13251deffc57cbe2d4bb863960bf7caf6b7f049a93732cacdcbf77377c84"
+metafile = true
+
+[[files]]
+file = "mods/mod-viewer.pw.toml"
+hash = "12c53188aee96cd4ae14e3aef36f20ea293872776a370e57dbc7314f5c82fe7c"
 metafile = true
 
 [[files]]
@@ -151,6 +161,11 @@ hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "73fa230a7cb7fa1b29e3de42be5595ae178f70b365122e0a48c74330c3d28ac7"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6d2ea67e4a67db3b570525b5624a9833ca49bd4d19fa03edd26ed321f81daac9"
 metafile = true
@@ -181,6 +196,11 @@ hash = "1aec0bfd1d5b8631e53ff584316ae49b42e312014ad1b7309db83b355c8c918f"
 metafile = true
 
 [[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "cbd24cdc5e83c7f687d56ed15b79f0e4ea890d9e825f747357e22831f67f4f0f"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "1b02ebac642ccf7870fd24e7935072bf7446450e54bd455216751859b2fcf8a5"
 metafile = true
@@ -203,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/toadlib.pw.toml"
 hash = "646214379e10e7cd4e187017dd5a85050888eedbb2d2c312ceb3beeb89eab6cc"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "695176ca996e639044d0d526cd6c56a95c9897e85e7a8119a2d14a712f755733"
 metafile = true
 
 [[files]]
