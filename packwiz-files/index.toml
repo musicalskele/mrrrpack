@@ -81,6 +81,11 @@ hash = "e10cec52ac61de44ff9ce7fc71df45b7f66d008e71fa4d1dc10e860fff7d57a7"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "b679769f3212ee14192f3af70563c99be8d25ea0ca5959fa14ef84cd2f03ca2a"
+metafile = true
+
+[[files]]
 file = "mods/female-gender.pw.toml"
 hash = "08de26393b2b7d15da7be19371ee70f77a6732938326378f81d98239e7f96a36"
 metafile = true
@@ -203,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "1b02ebac642ccf7870fd24e7935072bf7446450e54bd455216751859b2fcf8a5"
-metafile = true
-
-[[files]]
-file = "mods/textile_backup.pw.toml"
-hash = "365299022d7203bcc1e1c3bbb4e7e0c241a12210c7b38f594c3b83820c13bf4e"
 metafile = true
 
 [[files]]
