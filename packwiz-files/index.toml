@@ -11,6 +11,11 @@ hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "0dc6b099b0bdf70ce41e2ed30e70d6b5cba93d127d6b3f9e455566c4c1b65ff2"
 metafile = true
@@ -31,6 +36,11 @@ hash = "3d901343bdcb30f4abcbf8801c2bef2f2fa1921dc4f4fca0ea445e989c353b24"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "827eb53b830e85040bba9ba64a67f9b1ecfae0526cd446e18b52c37508d0ccfa"
+metafile = true
+
+[[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "6556d34c3b682a335b20a89b029e2e21436d95ca114aef1e23bf0e5712a921a3"
 metafile = true
@@ -41,8 +51,13 @@ hash = "09debeed0a707ca01408146bca5f304ee7840f4d6848c49ec74d778060752d07"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "9e7b826d484463de791968409dad4c7f681d0752eaf5eee3565b4cae5235d1c0"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b28d15f09086b4b4bbbe1d9a659892f9fe5851fab1a43038acf2e84799fd9b03"
+hash = "3f649f64fe4da79c7921350d917beed3dcb61b022b9e346d00a2f926502e1475"
 metafile = true
 
 [[files]]
@@ -67,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/concentration.pw.toml"
-hash = "c9fbc89629cc9eac6ad19d0c198d770284ef34f1e594c37bac7dd25c4cc4c2ee"
+hash = "82e55ef13e52f29aa8a21a1078aa379ded7e39ca614132e3f4c3d07caa7e3913"
 metafile = true
 
 [[files]]
@@ -87,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "bb14aaa69056e032710154bf54bc74dca1263928cab47178737afb6c3f3ce2c7"
+hash = "6615f375b47774daf666db2b61196cbf9e03b82704a2b330e808d4f9c8214431"
 metafile = true
 
 [[files]]
@@ -146,6 +161,11 @@ hash = "ec2000f9fb4f84fb906c17c63a6bff79ae06212a761f6180e8c0fd16c5d073c5"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "0b5dee31634cf1bf788b771e10f2ae669fbfcc9c1e992720b74d86be601c9d1f"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "dc25ca0c103c91e9ee0913240e8aa3e33e416e6226078943c6b789e9f43446b2"
 metafile = true
@@ -157,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
+hash = "20a941f234eb3182ddf55862ecfc9b5f24911a27e88310f2a127dd0e8d675008"
 metafile = true
 
 [[files]]
@@ -191,6 +211,11 @@ hash = "102d8be60c143a9e5e85339d3682b14330a2f76801a27714ef42913f513f7bcd"
 metafile = true
 
 [[files]]
+file = "mods/lithosphere.pw.toml"
+hash = "772046e7dbfa2a2951529265b27fc67fe29fcbe15a41fffe0334bd34118ad639"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "e1972edbbff35da596b8be8411286300ade9f0d1cfdb0f1cfcdb80162a3f251d"
 metafile = true
@@ -217,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a3753e729d72f1f51022380efd645a205d50b23f69e435385efbe1849e8cda7f"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
@@ -251,6 +276,16 @@ hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
 metafile = true
 
 [[files]]
+file = "mods/pandalib.pw.toml"
+hash = "c714d5a843addc79d2a94e7c52ba391de9052b9b680a815b2f0090dde7aa04d4"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "93dfe622b0850372ed80e6f9cd2099b6bbcd0e3c483b0efe561f9ab0e9c2e7a2"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
@@ -272,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "54f83fc71e31c2d0166650c1d788ab492e5757b70cf1bfc12db3e5ee21399653"
+hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
 metafile = true
 
 [[files]]
@@ -303,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "1b02ebac642ccf7870fd24e7935072bf7446450e54bd455216751859b2fcf8a5"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "0d232248a360de3994b639d6bd3430806e6d3434c89bd7a44a33636e8b401aa7"
 metafile = true
 
 [[files]]
@@ -347,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "a7dfd31be81fce18191a5468bf24a04dff7275062d9f285e3b52eec771157390"
+hash = "481ee07891029ab927064d9b9aef897b6c4bcde3e0882d8407adf2794a8745ef"
 metafile = true
 
 [[files]]
