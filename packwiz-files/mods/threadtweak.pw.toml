@@ -1,16 +1,16 @@
 name = "ThreadTweak"
-filename = "threadtweak-fabric-0.1.4+mc1.21.jar"
+filename = "threadtweak-fabric-1.20.2-0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vSEH1ERy/versions/INOJp2Dt/threadtweak-fabric-0.1.4%2Bmc1.21.jar"
+url = "https://cdn.modrinth.com/data/vSEH1ERy/versions/gBP1GqtK/threadtweak-fabric-1.20.2-0.1.1.jar"
 hash-format = "sha512"
-hash = "600c4698f2cfca7eaeee0f91b7e06e58ae4177bfc1fe3988b10c8fb12cf3a07aed611b0ac5836b9a80d0acb65f0d2e28436fa1240a6f2c274abddf8e227853bd"
+hash = "b5a9fc2775bc8c020cb88b898dcdf473bf77f03ef41be1661a117872b16582a7e30b4f4a94d4c97855484a173e5e41951d47fcc17aef2429828b35308453835c"
 
 [update]
 [update.modrinth]
 mod-id = "vSEH1ERy"
-version = "INOJp2Dt"
+version = "gBP1GqtK"
 
 [option]
 optional = true

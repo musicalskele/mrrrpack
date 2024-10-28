@@ -1,13 +1,13 @@
 name = "GlitchCore"
-filename = "GlitchCore-fabric-1.21-2.0.0.3.jar"
+filename = "GlitchCore-fabric-1.20.1-0.0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/2zGz6n4Q/GlitchCore-fabric-1.21-2.0.0.3.jar"
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/25HLOiOl/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
 hash-format = "sha512"
-hash = "05cfa1ed93c868aa745678e8bb9beeec1814e7d27edf0c5733cf9c416e5f5d02de8acf00ea91a2ed5faf71169b32ab6bfcabd6251e86dd5feb6648bb58d1d7ee"
+hash = "6aaf011fd04da2f2839da8e037add942588676385906d8ddad2927ca88414a37463f1b2e2ee2209a87cda8d2af9448a29e55e86ba2d94e857e46d28545ea7bbd"
 
 [update]
 [update.modrinth]
 mod-id = "s3dmwKy5"
-version = "2zGz6n4Q"
+version = "25HLOiOl"

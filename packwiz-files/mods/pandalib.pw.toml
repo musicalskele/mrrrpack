@@ -1,13 +1,13 @@
 name = "PandaLib"
-filename = "pandalib-fabric-0.4.2-1.21.jar"
+filename = "pandalib-fabric-0.4.2-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/gsRDuiiP/pandalib-fabric-0.4.2-1.21.jar"
+url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/Ire8dDH2/pandalib-fabric-0.4.2-1.20.jar"
 hash-format = "sha512"
-hash = "9d20023b673f792309a5d2f064ce4732511f3e09aba8c5ac397182d3a9698de29a21a8f2c6e967dee56d6940aa2dd1bbae25726c7694c2ce262b05bab7e934ed"
+hash = "dcd1ae012e153bbe7c6a268f0146285b0f25b3a7d9d267d2c410f8a7dc8753b0e943d4e6fae485bbd430af3439c6c7e21929f67ac69129648a3a7f3c42c960e0"
 
 [update]
 [update.modrinth]
 mod-id = "mEEGbEIu"
-version = "gsRDuiiP"
+version = "Ire8dDH2"
