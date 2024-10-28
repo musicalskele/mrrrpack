@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "38964eeb7d05a62302c0608caf86a4ab55717f96f8dbab657c4a687bc8361bc1"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "925a58e077cfc6417f753e434530a78f156d14afa925d1e0898a2ab64ff1ce64"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "f9278d338d0fc16a343206fdce858d5d57adb84a2ee12eb815053695f37a1886"
 metafile = true
@@ -26,6 +36,11 @@ hash = "6c5a2fc560751c90dd40b0be4a28c9271aea8d2cf2d5c59cbfa3014e53dbfea6"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "23acea5043b043f4307ee1ce9d3738340ee72e5d3915322d7cee40403265f41b"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "d7dcbb9489b17fbe221d3a59ab2503293b219cee29d07a08aefbe32c5f3bf160"
 metafile = true
@@ -48,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "47237935ab1dbb9fd99f831bdb3d6773ae8c7d3aa00bab06501c6cbd6fcfa5d4"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
@@ -212,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/female-gender.pw.toml"
-hash = "08de26393b2b7d15da7be19371ee70f77a6732938326378f81d98239e7f96a36"
+hash = "3b9b6c8e071b98114bf6276d87d49a4a7249b41fd945809ac3b6ea4e8004c3e4"
 metafile = true
 
 [[files]]
@@ -326,11 +346,6 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "afcbf737a26b2d5d794732d64f4f8e13478593c43e1715ee92afb59533dbe496"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
@@ -338,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+metafile = true
+
+[[files]]
+file = "mods/no-elytra-firework-boost.pw.toml"
+hash = "5007cc27d09936d722b5a40b4bcea0abc4100a3e9f7bc41979c3d2e3f0a30752"
 metafile = true
 
 [[files]]
@@ -386,13 +406,13 @@ hash = "fd71a07c977a52f6228c9d5eebfe5b1e3663ee3400ab59afb7861d21a5ecd1e1"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+file = "mods/resourceful-config.pw.toml"
+hash = "bc01e49e5a2d8d32f25c29d63f32bac189ea645a54c40ffc85e6db54cc3806b2"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
@@ -478,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/videotape.pw.toml"
 hash = "bb5c43e722fb9037046ac82991f7df03d915793346f2b80d2e3d965a684cbf8d"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "68fd939911d8be91a3d276485e52872a22dec1d3a57d83f903527bce38bba946"
 metafile = true
 
 [[files]]
