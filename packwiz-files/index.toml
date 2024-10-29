@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/create-fabric-computercraft.pw.toml"
+hash = "53e4ca484d057b208d3bd88828d30e421aab99b4ccef295d89cf8b6c2de5d883"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "38964eeb7d05a62302c0608caf86a4ab55717f96f8dbab657c4a687bc8361bc1"
 metafile = true
@@ -8,6 +13,16 @@ metafile = true
 [[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "925a58e077cfc6417f753e434530a78f156d14afa925d1e0898a2ab64ff1ce64"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "77fa60afe266039f8577c093a1abeee3155acbcdb22bf5ae14bcf522d15b321d"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "3757e9805da330d775143601615f32c921dfb66fb37c7c7f7834840390af84d9"
 metafile = true
 
 [[files]]
@@ -52,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
+hash = "21800795ca7e64619a0218cb1c80e9a83423c1152dcb6f474a419c975c92937f"
 metafile = true
 
 [[files]]
@@ -102,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "d42338ede52cfe1ba0454d279a70aa25653f0eebcee50699b8434aa7a5a54f07"
+hash = "2bdd30f77cc7ab6f34104f85841de60c60f9d89af665969e5bdcd8a6ae329a2d"
 metafile = true
 
 [[files]]
@@ -126,6 +141,11 @@ hash = "3c1fb3f44f84303e6d54cc1b99ac88c4982ab66962a95234190d78595af2a6ec"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "2b59237de53c179aa6906a3ef1335922025e9ce922402a49e33dc78e1a954a6d"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
@@ -136,8 +156,18 @@ hash = "fd2c9cdc0083b93038ce74132c66078e8e223722c4fae902ba4bfef28c37ed71"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "46a3d264fd3836e234a0b36052f47428628222ef8023ea2bf655c966fa821032"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "965b3cc83e1bca99bd1b89ec5f94495d831fcf7d03317cb50891752b0ca7ddc0"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "f39db66d66abb140eb3a1b0c503455173948c5f5561033d08d85e6804945f6f6"
 metafile = true
 
 [[files]]
@@ -171,6 +201,11 @@ hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "076d114e25526f50fac7c7c9a6b2cf2bb19b51c7e5f42db51f6d62e603582e85"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
@@ -193,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5e82a66ffe393248e8465e038352a6ca04773fc4ffca58f5f53204feccf16ae6"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "ee992c945097b2ba7d72542fc12cc5bad8dfb8a0f98e2a9f779a3598e2b0cea5"
 metafile = true
 
 [[files]]
@@ -291,6 +331,11 @@ hash = "81ad81d5109957c587c35b160eebbb6304218b8a153f1ab9ec6095fc22396d2d"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "4fe9edc14b2c6c11df6c2b7d9805f3f98f418bff6b69a72f864bb191d110c57d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
@@ -332,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "074d145a4160c23033a5d5e524fd6d858b9a63d5e1024b90daaeecdf21e55ed0"
+hash = "176a6b5f5278675b50ad34a18bee133f42395f31b935f25a5419ccfcf24adaf7"
 metafile = true
 
 [[files]]
@@ -343,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.pw.toml"
+hash = "ee7184138a731c721a7a70ff880387b7a555a3f3f64638d1de41c43cc56b9e76"
 metafile = true
 
 [[files]]
@@ -386,6 +436,11 @@ hash = "474f9bd57430299cb8e634f1bda34ab9aa36d42f2cc751e9dde092c8c20105eb"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "58e0dcbd933909735c31a0da3009fc05276b322196026137ef39da9a50525d8d"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "9848548c0071da322137749b1cf228061248ea1dacaf856b0a966d1932980065"
 metafile = true
@@ -398,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "fd71a07c977a52f6228c9d5eebfe5b1e3663ee3400ab59afb7861d21a5ecd1e1"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
 metafile = true
 
 [[files]]
@@ -481,6 +541,11 @@ hash = "5a68813ac1c3a6773fc15b723380e9af199f7ee6543b84265c74310b5ebf0369"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "fe163268dc062dc702c3accbb0f9fc01823b466f8e91f86d5b9dea472a1becd2"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
@@ -528,4 +593,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-gui-for-toms-simple-storage.pw.toml"
+hash = "8ce3841f47a50114f13d358fa02bfcd393437fe176d93b99f9838c772cd9a9bb"
 metafile = true
