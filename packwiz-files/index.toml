@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "9cbaf2df74043cccd29eb9517cc58046c7c18908208861c94edda2be1ec1e6cd"
+hash = "f1fbdf5cbf634675eead754e83a09e07d4b8be3b30cb04622940da642aed99f3"
 metafile = true
 
 [[files]]
