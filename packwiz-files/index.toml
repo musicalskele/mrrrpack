@@ -36,6 +36,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "9cbaf2df74043cccd29eb9517cc58046c7c18908208861c94edda2be1ec1e6cd"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
@@ -121,6 +126,11 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a0f2e11e55aa98b13ca469e8cee71d38a16a2ed0fba99b95fb0664adfc93e838"
+metafile = true
+
+[[files]]
 file = "mods/concentration.pw.toml"
 hash = "e419ded91eef0dd6a95bf05aa6125df3c8426613ba85fd20eb18dd2bed180e59"
 metafile = true
@@ -201,6 +211,11 @@ hash = "076d114e25526f50fac7c7c9a6b2cf2bb19b51c7e5f42db51f6d62e603582e85"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
@@ -228,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "ee992c945097b2ba7d72542fc12cc5bad8dfb8a0f98e2a9f779a3598e2b0cea5"
+metafile = true
+
+[[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "c59088cddb9d7d6d77898ce272f6da236ee08da3adf2abd919dc7d29c0449369"
 metafile = true
 
 [[files]]
@@ -371,6 +391,11 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "37e351edff4e7e105e9ce910c22998413a400969b9f28894fc69cd960381f3a3"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "176a6b5f5278675b50ad34a18bee133f42395f31b935f25a5419ccfcf24adaf7"
 metafile = true
@@ -466,6 +491,11 @@ hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "95dc1c49d6f94a6484e3c3688fa062fed91b323aa4cc088cc2748ca0dd43a7da"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "d5d7b7d8ddc60eac234033a30c8980a6d2d1ea07a0da45faabf82026432799a8"
 metafile = true
@@ -493,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "5cb035eca1cdb02cb92a355ec771945c5384c7d22edfe7f8b29fdc2c8f41a952"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "3872c81be1d8a8d5ce89295205c47e3ce30ee307ab0805c63aec3ce42924df46"
 metafile = true
 
 [[files]]
@@ -553,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/videotape.pw.toml"
 hash = "bb5c43e722fb9037046ac82991f7df03d915793346f2b80d2e3d965a684cbf8d"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "f3b62c8bd55a5751bb5d885598eadefb6ac6ee629384f41ef08692f55bc23142"
 metafile = true
 
 [[files]]
