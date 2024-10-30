@@ -36,11 +36,6 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "f1fbdf5cbf634675eead754e83a09e07d4b8be3b30cb04622940da642aed99f3"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
