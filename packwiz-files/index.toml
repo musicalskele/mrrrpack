@@ -156,6 +156,11 @@ hash = "3c1fb3f44f84303e6d54cc1b99ac88c4982ab66962a95234190d78595af2a6ec"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
+metafile = true
+
+[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "2b59237de53c179aa6906a3ef1335922025e9ce922402a49e33dc78e1a954a6d"
 metafile = true
