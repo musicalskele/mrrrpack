@@ -1,0 +1,13 @@
+name = "VMod"
+filename = "VMod-Fabric-1.20.1-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qS1ot7R2/versions/TxPLy2oN/VMod-Fabric-1.20.1-0.1.1.jar"
+hash-format = "sha512"
+hash = "3f0972132e045c53f7c6989cb8127658538644f6bd63bac04d81f2f04ac21ac367cfdd7239139c51b5eabc78531b1b15fea6321f74b617106bde8cbbe6520add"
+
+[update]
+[update.modrinth]
+mod-id = "qS1ot7R2"
+version = "TxPLy2oN"
