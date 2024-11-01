@@ -6,6 +6,11 @@ hash = "53e4ca484d057b208d3bd88828d30e421aab99b4ccef295d89cf8b6c2de5d883"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/toms_storage_creatified.pw.toml"
+hash = "76851ef55c94fff1b9ce56a47d64029f423ade88785882a4cde3464ebcd99864"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "38964eeb7d05a62302c0608caf86a4ab55717f96f8dbab657c4a687bc8361bc1"
 metafile = true
@@ -366,6 +371,11 @@ hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
@@ -546,6 +556,11 @@ hash = "95dc1c49d6f94a6484e3c3688fa062fed91b323aa4cc088cc2748ca0dd43a7da"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "d5d7b7d8ddc60eac234033a30c8980a6d2d1ea07a0da45faabf82026432799a8"
 metafile = true
@@ -703,4 +718,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-gui-for-toms-simple-storage.pw.toml"
 hash = "8ce3841f47a50114f13d358fa02bfcd393437fe176d93b99f9838c772cd9a9bb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-create-storage.pw.toml"
+hash = "9f8d93ef03dca6ca4dddb107b42fa980884efb68b03fc21708664f61dbd882eb"
 metafile = true

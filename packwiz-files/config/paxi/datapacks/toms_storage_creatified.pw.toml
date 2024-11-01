@@ -1,0 +1,13 @@
+name = "Tom's Storage Recipes Creatified"
+filename = "Tom's Storage - Creatified.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gx7SDgwQ/versions/fjIqmR6x/Tom%27s%20Storage%20-%20Creatified.zip"
+hash-format = "sha512"
+hash = "9b2a912eb2298c62a2377bc4456ac2a0df76eea8b97ad44e1ef977500c65e9526c33479c8a9835f5713cb5ff565a5b997d0c258d2d97dfd79f4455204e8cbe0f"
+
+[update]
+[update.modrinth]
+mod-id = "Gx7SDgwQ"
+version = "fjIqmR6x"
