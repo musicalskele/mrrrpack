@@ -216,6 +216,11 @@ hash = "c92aae37a2b79c96ac72e17695d1bcbdc35ca51d56f0fb8d1d9ffa9dace45274"
 metafile = true
 
 [[files]]
+file = "mods/createfabricreibugfix.pw.toml"
+hash = "2a410e8bb21bfc8b8a7c9915a10539143b389a4c967d2c8f255ed7527e936f11"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
@@ -476,6 +481,11 @@ hash = "80b0b7333c6c4235d840800afc8583a1e03f5fe493dd8085bf46dbf18e48eab3"
 metafile = true
 
 [[files]]
+file = "mods/night-auto-config.pw.toml"
+hash = "e12567f00765136329ad5edcfcf826c7cc47f2e780c7a12083675887f6d654b6"
+metafile = true
+
+[[files]]
 file = "mods/nmuk.pw.toml"
 hash = "ee7184138a731c721a7a70ff880387b7a555a3f3f64638d1de41c43cc56b9e76"
 metafile = true
@@ -556,6 +566,16 @@ hash = "fd71a07c977a52f6228c9d5eebfe5b1e3663ee3400ab59afb7861d21a5ecd1e1"
 metafile = true
 
 [[files]]
+file = "mods/rei-collapsible-entries.pw.toml"
+hash = "ed740d27267ccbe28948aa7d21330092ee57c484d0cae3ccc1f40a4ef6927b68"
+metafile = true
+
+[[files]]
+file = "mods/rei-enchantment-info.pw.toml"
+hash = "7a4cbc18e3a66a2f0ee004c7d235a9df8bc77a3187d4f7800ae94278b57580b9"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
 metafile = true
@@ -578,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
 metafile = true
 
 [[files]]
