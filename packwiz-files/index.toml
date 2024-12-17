@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "310f786acd9b9079dc5600264ccf078074a01a319784f6bc7c28be0991e8c907"
+hash = "216a5376915c6f1d37e07eb4ca6631c433fd58f87d78d18363addc86c08d55ca"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "79d7ddc34183fa37ea650a5528addb4b6938384a6f65987db0d4f5a916e2fa5a"
+hash = "61fe0368e62d8926d1c7429532f74d22afc3e7044bee9385452095bd492976ef"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f0b55dcca274fa303f0343a9e15575056583db92e739caa5cdf66d4137db7716"
+hash = "b29e47c963eeb1a471f24b166a2b9ff01679858109e723dba0ffc7367576a56b"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "bb7eb853443f92c24d5e118ae24652ca09d57163b9b5c22250a1114de6f67111"
+hash = "af0441057bfaa0feb977c623c18d434d4438b332c5f59e8b0685cc6bf9e241dd"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
-hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
+hash = "9fd58b9a53fafab3e87817bfd6421278e7fc4c1eb63f26b2a7c1e52df6b12207"
 metafile = true
 
 [[files]]
