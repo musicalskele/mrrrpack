@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "af0441057bfaa0feb977c623c18d434d4438b332c5f59e8b0685cc6bf9e241dd"
+hash = "da918c5777884d296773718551a160b749a8be9ae6985a3e5fad45233963d923"
 metafile = true
 
 [[files]]
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "72c1b80920ba6133c56517a3b649f2bce3bd837e5aaf4bb24f5b9947eadfafcd"
+hash = "5467a8bd6c150ab9fce46f1e0af8b7caedbc47ecf627fffe8451a875dba90e10"
 metafile = true
 
 [[files]]
