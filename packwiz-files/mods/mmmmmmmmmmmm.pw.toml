@@ -1,13 +1,13 @@
 name = "MmmMmmMmmMmm"
-filename = "dummmmmmy-1.20-2.0.3-fabric.jar"
+filename = "dummmmmmy-1.20-2.0.5-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Adega8YN/versions/o2545dR2/dummmmmmy-1.20-2.0.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/LUaKZqUd/dummmmmmy-1.20-2.0.5-fabric.jar"
 hash-format = "sha512"
-hash = "5bd3a282e9d7dcc7fda09edb635cc62f7e73d95225547e0f034dccbabe71eab2ec34aa0c1223d010ea4fca6c571448b06059264f6faf768126e3c3f010b367fd"
+hash = "14e03d1fe47d2907c9bf9ee8d3083d6b5125d33a75086ef9137c700174e6a0a2964f5af734ee0b5307eb852493b17035c6a380ecb8e847fa1142f42376953992"
 
 [update]
 [update.modrinth]
 mod-id = "Adega8YN"
-version = "o2545dR2"
+version = "LUaKZqUd"
