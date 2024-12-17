@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "216a5376915c6f1d37e07eb4ca6631c433fd58f87d78d18363addc86c08d55ca"
+hash = "990b03e8d1b818040a6b46fb50ded25cace47dc742edfc08d914c6a81357970f"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "b29e47c963eeb1a471f24b166a2b9ff01679858109e723dba0ffc7367576a56b"
+hash = "f0b55dcca274fa303f0343a9e15575056583db92e739caa5cdf66d4137db7716"
 metafile = true
 
 [[files]]
