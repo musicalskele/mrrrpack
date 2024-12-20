@@ -602,17 +602,17 @@ metafile = true
 
 [[files]]
 file = "mods/rei-collapsible-entries.pw.toml"
-hash = "ed740d27267ccbe28948aa7d21330092ee57c484d0cae3ccc1f40a4ef6927b68"
+hash = "ba14127645c86f4fae45656837fba077d401a988fd1893d356bc0dfb69ccab83"
 metafile = true
 
 [[files]]
 file = "mods/rei-enchantment-info.pw.toml"
-hash = "7a4cbc18e3a66a2f0ee004c7d235a9df8bc77a3187d4f7800ae94278b57580b9"
+hash = "4744bbfae867514fd7905b3eb12fa7d7ef2103702da6b201fcc60b3fa8a14cb2"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
+hash = "02bf34b23b87a9e1ba2ef3736d8af4b0cf1a6f741b777a3983f0f5efe5b69238"
 metafile = true
 
 [[files]]

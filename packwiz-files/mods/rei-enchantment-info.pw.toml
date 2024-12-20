@@ -11,3 +11,7 @@ hash = "294aadbed9af8da543b94dca462e8af7f5f7f506750542f33f899b745705e2bd14ffedd7
 [update.modrinth]
 mod-id = "ITxRECBA"
 version = "YqY7xWDY"
+
+[option]
+optional = true
+default = true
