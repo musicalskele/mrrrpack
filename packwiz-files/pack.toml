@@ -1,12 +1,12 @@
 name = "mrrrpack"
 author = "musicalskele"
-version = "0.3.5"
+version = "0.3.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "618a9e6e7dbd345411f663c81a5c10c2be967316d669a9581895b8c084a75fc5"
+hash = "8960a60cd3a8326bcf589262074c63191606503ba54df8150351fb2e3c98ee3a"
 
 [versions]
 fabric = "0.16.8"
